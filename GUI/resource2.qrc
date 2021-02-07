@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>play-button.png</file>
+    <file>stop.png</file>
+    <file>check.png</file>
+    <file>delete.png</file>
+    <file>radio-microphone.png</file>
+  </qresource>
+</RCC>
